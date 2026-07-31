@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "title": "Node.js Fundamentals",
+    "instructor": "jana ayman",
+    "category": "Backend",
+    "price": 199,
+    "duration": "10 hours",
+    "level": "Beginner",
+    "rating": 4.8,
+    "students": 1200,
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800",
+    "id": 1
+  },
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "price": 450,
+    "available": true,
+    "id": 2
+  }
+]
